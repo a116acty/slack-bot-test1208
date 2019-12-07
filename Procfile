@@ -1,0 +1,1 @@
+worker: python slack_bot1.py
